@@ -1,2 +1,2 @@
-# Rubik-kocke
+# Rubik-kocka
 Html feladat Rubik-kocka ismertetéséhez
